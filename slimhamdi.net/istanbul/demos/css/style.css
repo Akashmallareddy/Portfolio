@@ -1050,7 +1050,7 @@ body.fullscreendark #main>section#home {
   background-image: url('../img/CRF001_AKASHMALLAREDDY_PHOTO-removebg-preview.png');
   background-size: cover;
   background-repeat: no-repeat;
-  background-position: left center;
+  background-position: left;
 }
 
 body.fullscreenlight #main>section#home {
@@ -1064,7 +1064,7 @@ body.fullscreenbgimage #main>section#home {
   background-image: url('../img/CRF001_AKASHMALLAREDDY_PHOTO-removebg-preview.png');
   background-size: cover;
   background-repeat: no-repeat;
-  background-position: left center;
+  background-position: left;
 }
 body.fullscreenbgimage #main>section#home:after {
   position:absolute;
